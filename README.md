@@ -14,9 +14,8 @@ The Smart Textile Wearable Electronics Dress is designed for children, featuring
 ### Key Objectives
 1. Interactive and Fun Experience
 2. Sensor Integration
-3. Child Safety and Parental Monitoring
-4. Educational and Learning Potential
-5. Personalization and Expressiveness
-6. Practical Application and Usability
-7. Data Privacy and Security
+3. Educational and Learning Potential
+4. Personalization and Expressiveness
+5. Practical Application and Usability
+
 
